@@ -1,9 +1,8 @@
-# scool
-# scool
-<h1> Scool</h1>
 
+<h1> Scool</h1>
 Pizza sistesi örneğidir
-<video src=" loop /Restaurant Web Site - Google Chrome 2024-11-12 18-18-38.mp4">
+Gif dosyası eklendi
+<img src="./Restaurant-Web-Site-Google-Chrome-2024-11-12-18-18-38.gif" alt="gif açıklaması" />
 </video>
 <p> Ekran kaydıdır</p>
 
