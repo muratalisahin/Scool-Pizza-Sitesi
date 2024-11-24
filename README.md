@@ -4,8 +4,8 @@ Pizza sistesi örneğidir
 Görsel Gif dosyası eklendi
 <p> Ekran kaydıdır</p>
 <br> <br>
-![Uploading Ön yüz Gif-1.gif…]()
 
+![alt text](<Ön yüz Gif-2.gif>)
 
 
 
