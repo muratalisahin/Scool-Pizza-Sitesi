@@ -14,5 +14,5 @@ Görsel Gif dosyası eklendi
 
 
 
->>>>>>> 93e564bb1c3899fdd33b03052982b2e206b2e924
+
 
