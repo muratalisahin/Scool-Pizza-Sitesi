@@ -5,7 +5,7 @@ Görsel Gif dosyası eklendi
 <<<<<<< HEAD
 
 <p> Ekran kaydıdır</p>
-![alt text](<Ön yüz Gif-2.gif>)
+
 =======
 <p> Ekran kaydıdır</p>
 <br> <br>
