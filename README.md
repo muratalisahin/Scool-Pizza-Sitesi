@@ -1,5 +1,5 @@
 
-<h1> Scool</h1>
+<h1> Pizza Site Clone</h1>
 
 Pizza sistesi örneğidir
 
