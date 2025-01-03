@@ -1,5 +1,5 @@
 
-<h1> Pizza Site Clone</h1>
+<h1> Pizza Site Ön Yüz tasarım</h1>
 
 Pizza sistesi örneğidir
 
