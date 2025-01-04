@@ -1,9 +1,9 @@
 
 <h1> Pizza Site Ön Yüz tasarım</h1>
 
-❗Pizza sitesi örneğidir
+ ❗Pizza sitesi örneğidir
 
- ☑Css,Html ile hazırlanmış örnek bir tasarım örneğidir
+ ❗Css,Html ile hazırlanmış örnek bir tasarım örneğidir
  
 
 
