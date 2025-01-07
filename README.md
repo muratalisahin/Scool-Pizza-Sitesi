@@ -1,5 +1,5 @@
 
- 🍔 Pizza Sitesi
+ 🍔 Pizza && Hamburger Sitesi
 Projenin tasarımını <br>
 HTML5 ,CSS3 ve JavaScript kullanıldı <br>
   Kullanıcının sipariş vermelerine olanak tanıyan bir restoran projesidir.Çeşitli pizza ve hamburgerleri,açıklamaları, malzemeleri ve fiyatlarıyla birlikte bize sunar  <br>
