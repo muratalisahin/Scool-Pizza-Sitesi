@@ -7,7 +7,7 @@ HTML5 ,CSS3 ve JavaScript kullanıldı <br>
 🌐 İLETİŞİM İÇİN:<br>
 muratalisahin61@gmail.com
  <br>
-<p>❗ ÖNİZLEM Ekran kaydıdır</p>
+<p>❗ Önizleme Ekran kaydıdır</p>
  <br>
 
 ![alt text](<Ön yüz Gif-2.gif>)
