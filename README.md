@@ -1,11 +1,16 @@
 
-<h1> Pizza Site Ön Yüz tasarım</h1>
+ 🍔 Pizza Sitesi
+Projenin tasarımını <br>
+HTML5 ,CSS3 ve JavaScript kullanıldı <br>
+  Kullanıcının sipariş vermelerine olanak tanıyan bir restoran projesidir.Çeşitli pizza ve hamburgerleri,açıklamaları, malzemeleri ve fiyatlarıyla birlikte bize sunar  <br>
+  .Google Haritalar entegrasyonuna sahiptir.<br>
 
- ❗Pizza sitesi örneğidir
+🌐 İLETİŞİM İÇİN:<br>
 
- ❗Css,Html ile hazırlanmış örnek bir tasarım örneğidir
+muratalisahin61@gmail.com
  
 
+📂 ÖNİZLEME<br>
 
 <p>❗ Ekran kaydıdır</p>
  <br>
